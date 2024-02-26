@@ -1,5 +1,3 @@
-laporan praktik sistem operai
-
 ls : menampilkan daftar file dan direktori.
 passwd : menyetel kata sandi yang lama ke baru.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/773d520f-f525-4ff7-9a70-9bf585decc6f)
@@ -43,4 +41,23 @@ mkdir : membuat direktori dokumen Baru.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/20a448aa-e063-4194-9b29-9548f7e62e36)
 journalctl : menampilkan log sistem.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/4e677a44-0c28-4479-96e0-5b8ab1fe5392)
-
+systemctl list-unit-files --type=service : menampilkan daftar layanan yang akan dijalankan saat sistem boot.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/a8dd047b-1e0c-470a-8d16-f17b58e8ca75)
+nmcli connection show : menampilkan konfigurasi jaringan dengan NetworkManager.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/6034b500-6eba-4fef-8e3e-b84268047123)
+lspci : menampilkan daftar perangkat keras yang terhubung.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/17a6904d-51cf-4b6c-a833-58312ecff029)
+last : menampilkan log login terakhir
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/0b2e49c1-4880-48b5-a8a0-bbfa664cae1d)
+rpm -qa | grep nama_paket : menampilkan versi paket tertentu yang terinstal.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/9175fe72-3f0c-4f53-b9de-82fcb16024f9)
+cat /proc/mdstat : menampilkan informasi RAID.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/20cba0d8-8984-42c9-8e2a-607b24865dbd)
+top : menampilkan penggunaan CPU secara real-time.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/7c39c7ac-5085-4b83-9cdb-8cf26bc32853)
+ps : menampilkan proses yang berjalan.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/b25d76e5-a3b0-4585-b805-b767e7aaafcf)
+kill : menghentingkan proses.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/c3be133b-dd55-4d58-94e1-7f8ea1520637)
+df : menampilkan ruang disk yang tersedia.
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/092b879d-c804-44ac-ab1d-9e8d73b55a01)
