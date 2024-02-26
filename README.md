@@ -61,37 +61,39 @@
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/c3be133b-dd55-4d58-94e1-7f8ea1520637)
 32.df : menampilkan ruang disk yang tersedia.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/092b879d-c804-44ac-ab1d-9e8d73b55a01)
-34.du : menampilkan penggunaan ruang direktori.
+33.du : menampilkan penggunaan ruang direktori.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/bdb4419d-9712-45a2-bf24-717f78bb76a2)
-35.free : menampilkan penggunaan memori.
+34.free : menampilkan penggunaan memori.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/d2754faa-52f2-4ca3-9cd8-c22563ff6d39)
-36.dnf list tuned : menyalin dan sinkronisasi file dan direktori.
+35.dnf list tuned : menyalin dan sinkronisasi file dan direktori.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/a2badc92-21e5-49a5-adfe-b643896158e5)
-37.crontab : menjadwalkan tugas-tugas yang akan dijalankan secara berkala.
+36.crontab : menjadwalkan tugas-tugas yang akan dijalankan secara berkala.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/30832002-99a2-4628-8634-3f968b7a0ab5)
-38.lsof : menampilkan file yang sedang digunakan oleh proses.
+37.lsof : menampilkan file yang sedang digunakan oleh proses.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/42ee54d3-354c-4689-b221-03147486f1ba)
-40.cal : menampilkan kalender.
+38.cal : menampilkan kalender.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/eadb4508-5a13-4361-8f2f-bb74cad5ecfb)
-41.route : menampilkan dan mengonfigurasi routing tabel.
+39.route : menampilkan dan mengonfigurasi routing tabel.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/0063fdac-63b0-4bc3-ab82-1a69fda30496)
-42.history : menampilkan riwayat perintah shell.
+40.history : menampilkan riwayat perintah shell.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/60cf13ce-d8e8-459a-8d3b-71736f10e95b)
-43.useradd -d : digunakan untuk melihat atau mengonfigurasi default untuk pembuatan pengguna baru di sistem Linux
+41.useradd -d : digunakan untuk melihat atau mengonfigurasi default untuk pembuatan pengguna baru di sistem Linux
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/6ad20741-524c-4ca6-bfb5-ee878c541570)
-44.killall -V : digunakan untuk menampilkan informasi versi perangkat lunak (version) dari perintah tersebut.
+42.killall -V : digunakan untuk menampilkan informasi versi perangkat lunak (version) dari perintah tersebut.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/1c08c8fc-26dd-447e-8aca-905bdf1ddfee)
-45.echo ~ : menampilkan pintasan direktori rumah pengguna.
+43.echo ~ : menampilkan pintasan direktori rumah pengguna.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/d276a2e6-2c93-494a-975a-8e5c6e49d178)
-46.yum : mengelolah paket pada distribusi RedHat.
+44.yum : mengelolah paket pada distribusi RedHat.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/0b83c234-90f0-45e5-b65b-43f96d864878)
-47.info : menampilkan informasi tambahan.
+45.info : menampilkan informasi tambahan.
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/0cfda4ba-5c91-4e44-bc56-e803f242b427)
-48.curl : Transfer data from or to a server (Mentransfer data dari atau ke server)
+46.curl : Transfer data from or to a server (Mentransfer data dari atau ke server)
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/b802c0dc-430f-41fd-a38f-38a489f0c461)
-49.scp : Securely copy files between hosts (Menyalin file secara aman antara host)
+47.scp : Securely copy files between hosts (Menyalin file secara aman antara host)
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/6201c467-a112-4c59-ac96-49a703dad9a2)
-50.tar : Manipulate tar archives (Memanipulasi arsip tar)
+48.tar : Manipulate tar archives (Memanipulasi arsip tar)
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/fe3032a0-2267-4e38-a7e0-fba6bacb69a7)
-51.unzip : Ekstrak file dari arsip ZIP
+49.unzip : Ekstrak file dari arsip ZIP
 ![image](https://github.com/Kerisnakris/-50-command/assets/126413528/6a6f391f-4226-4acb-8ebb-86b6a1c0d754)
+50.wget : Pengunduh jaringan non-interaktif
+![image](https://github.com/Kerisnakris/-50-command/assets/126413528/794ceb5a-ed93-4d36-abff-3c608bcaf2c2)
